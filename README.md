@@ -1,3 +1,3 @@
 # BuildingBlock
-[SIGGRAPH 2025]BuildingBlock: A Hybrid Approach for Structured Building Generation
+[SIGGRAPH 2025]BuildingBlock: A Hybrid Approach for Structured Building Generation \\
 comming soon...
