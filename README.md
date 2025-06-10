@@ -1,5 +1,5 @@
 # BuildingBlock
-[**Paper**](https://arxiv.org/pdf/2505.04051) | [**arXiv**](https://arxiv.org/pdf/2505.04051)
+[**Paper**](https://arxiv.org/pdf/2505.04051)
 **[SIGGRAPH 2025]BuildingBlock: A Hybrid Approach for Structured Building Generation** <br>
 comming soon... <br>
 
