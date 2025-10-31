@@ -82,7 +82,7 @@ cat command.sh
 
 # Execute specific commands as needed
 # For example:
-#  python train_diffusion_building_DDP.py ../config/text/diffusion_building_DIT.yaml uncond  --experiment_tag uncond --n_processes 0 --with_swanlab_logger
+python train_diffusion_building_DDP.py ../config/text/diffusion_building_DIT.yaml uncond  --experiment_tag uncond --n_processes 0 --with_swanlab_logger
 ```
 
 ## Project Structure
